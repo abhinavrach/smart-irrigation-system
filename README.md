@@ -1,10 +1,6 @@
 # smart-irrigation-system
 This project is an automated irrigation system that uses a soil moisture sensor to control water supply. It ensures plants receive water only when needed, reducing wastage.
 
-# Smart Irrigation System
-
-A smart automation system using a **soil moisture sensor**, **Arduino Uno**, **relay module**, and **water pump** to control irrigation based on real-time soil conditions.
-
 ## Concept
 
 This system uses sensor-based automation to manage irrigation:
